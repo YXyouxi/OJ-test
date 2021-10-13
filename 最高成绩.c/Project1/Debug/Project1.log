@@ -1,0 +1,4 @@
+﻿  源.c
+D:\code-2021\2021-10-13\Project1\Project1\源.c(13,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\code-2021\2021-10-13\Project1\Project1\源.c(18,16): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\code-2021\2021-10-13\Project1\Debug\Project1.exe
